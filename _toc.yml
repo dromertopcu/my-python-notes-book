@@ -1,0 +1,17 @@
+## Table of contents
+## Learn more at https://jupyterbook.org/customize/toc.html
+#
+format: jb-book
+root: intro
+chapters:
+- file: 01- Data Manipulation with Pandas
+- file: 02- Joining Data with Pandas
+- file: 03- Introduction to Data Visualization with Matplotlib
+- file: 04- Introduction to Data Visualization with Seaborn
+- file: 05- Introduction to Numpy
+- file: 06- Python Data Science Toolbox
+- file: 07- Intermediate Data Visualization with Seaborn
+- file: 08- Introduction to Importing Data in Python
+- file: 09- Intermediate Importing Data in Python
+- file: 10- Cleaning Data in Python
+- file: 11- Working with Dates and Times in Python
